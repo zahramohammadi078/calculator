@@ -138,6 +138,7 @@ body{
     cursor: pointer;
     width:7vw;
     height: 7vh;
+    max-width: 80px;
 }
 
 .memory1{
@@ -149,6 +150,7 @@ body{
     font-weight: 500;
     width: 7vw;
     height: 7vh;
+    max-width: 80px;
 
 }
 
